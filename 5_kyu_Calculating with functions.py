@@ -164,3 +164,27 @@ def operator_switch(operator):
 print(seven(minus(zero())))
 print(four(plus(nine())))
 print(six(divided_by(two())))
+print('-------')
+
+
+# Second try. Using lambda functions and oneliners
+
+def zero(outer=None): return 0 if outer is None else outer(0)
+def one(outer=None): return 1 if outer is None else outer(1)
+def two(outer=None): return 2 if outer is None else outer(2)
+def three(outer=None): return 3 if outer is None else outer(3)
+def four(outer=None): return 4 if outer is None else outer(4)
+def five(outer=None): return 5 if outer is None else outer(5)
+def six(outer=None): return 6 if outer is None else outer(6)
+def seven(outer=None): return 7 if outer is None else outer(7)
+def eight(outer=None): return 8 if outer is None else outer(8)
+def nine(outer=None): return 9 if outer is None else outer(9)
+
+def plus(inner): return lambda x: x + inner
+def minus(inner): return lambda x: x - inner
+def times(inner): return lambda x: x * inner
+def divided_by(inner): return lambda x : x // inner
+
+print(seven(minus(zero())))
+print(four(plus(nine())))
+print(six(divided_by(two())))
