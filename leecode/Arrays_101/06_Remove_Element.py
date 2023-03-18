@@ -64,7 +64,7 @@ Constraints:
    occurrences of this element to the end of the array. Use two pointers! Hide Hint #3 Yet another direction of
    thought is to consider the elements to be removed as non-existent. In a single pass, if we keep copying the
    visible elements in-place, that should also solve this problem for us."""
-
+# TODO добавить в ридми
 # 1. two pointers
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
