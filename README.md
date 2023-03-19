@@ -35,6 +35,6 @@ Main purpose: tracking progress and easy navigation through solved task examples
 
 LeetCode
 ---  
-| Date       | Kata                                                  | Theme                                                                                   |  
-|------------|-------------------------------------------------------|-----------------------------------------------------------------------------------------|  
-| 2022-11-17 | [06_Remove_Element.py](https://github.com/SibDiP/Codewars_solutions/blob/main/leecode/Arrays_101/06_Remove_Element.py) | [Arrays_101](https://github.com/SibDiP/Codewars_solutions/tree/main/leecode/Arrays_101) |
+| Date       | File                                                                                                                   | Theme                                                                                                                                   |  
+|------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|  
+| 2022-11-17 | [06_Remove_Element.py](https://github.com/SibDiP/Codewars_solutions/blob/main/leecode/Arrays_101/06_Remove_Element.py) | [Arrays_101](https://github.com/SibDiP/Codewars_solutions/tree/main/leecode/Arrays_101)<br>1. two pointers: fast and slow<br>2. two pointers (start and end) and swap |

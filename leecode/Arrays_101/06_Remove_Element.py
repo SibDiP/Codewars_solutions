@@ -65,7 +65,7 @@ Constraints:
    thought is to consider the elements to be removed as non-existent. In a single pass, if we keep copying the
    visible elements in-place, that should also solve this problem for us."""
 # TODO добавить в ридми
-# 1. two pointers
+# 1. two pointers: fast and slow
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
         fast_p = 0
@@ -78,3 +78,17 @@ class Solution:
             fast_p += 1
 
         return slow_p
+
+# 2. two pointers (start and end) and swap
+class Solution:
+    def removeElement(self, nums: List[int], val: int) -> int:
+        left, right = 0, len(nums) - 1
+
+        while left <= right:
+            if nums[left] == val:
+                nums[left], nums[right] = nums[right], nums[left]
+                right -= 1
+            else:
+                left += 1
+
+        return left
