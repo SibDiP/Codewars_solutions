@@ -31,6 +31,7 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 2023-03-15 | [5_kyu_Valid_Parentheses.py](https://github.com/SibDiP/Codewars_solutions/blob/main/5_kyu_Valid_Parentheses.py)       | 1. Two counters algorithm<br>2. (FC) One counter realisation (much cleaner)                                                       | 
 | 2023-03-16 | [8_kyu_A_Needle_in_the_Haystack.py](https://github.com/SibDiP/Codewars_solutions/blob/main/8_kyu_A_Needle_in_the_Haystack.py)       | 1. f-string, index()                                                                                                              | 
 | 2023-03-18 | [7_kyu_Isograms.py](https://github.com/SibDiP/Codewars_solutions/blob/main/7_kyu_Isograms.py)       | 1. for, enumerate, O(n^2)<br>2. (FC) set(). O(n)                                                                                  | 
+| 2023-03-20 | [6_kyu_Counting_Duplicates.py](https://github.com/SibDiP/Codewars_solutions/blob/main/6_kyu_Counting_Duplicates.py)       | 1. dict, two for loops<br>2. iterator and set()<br>3. (FC) for loop, seen and dupes sets (nice one)                                                                               | 
 
 
 LeetCode
