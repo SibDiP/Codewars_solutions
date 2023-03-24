@@ -32,7 +32,8 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 2023-03-16 | [8_kyu_A_Needle_in_the_Haystack.py](https://github.com/SibDiP/Codewars_solutions/blob/main/8_kyu_A_Needle_in_the_Haystack.py)       | 1. f-string, index()                                                                                                              | 
 | 2023-03-18 | [7_kyu_Isograms.py](https://github.com/SibDiP/Codewars_solutions/blob/main/7_kyu_Isograms.py)       | 1. for, enumerate, O(n^2)<br>2. (FC) set(). O(n)                                                                                  | 
 | 2023-03-20 | [6_kyu_Counting_Duplicates.py](https://github.com/SibDiP/Codewars_solutions/blob/main/6_kyu_Counting_Duplicates.py)       | 1. dict, two for loops<br>2. iterator and set()<br>3. (FC) for loop, seen and dupes sets (nice one)                                                                               | 
-| 2023-03-22 | [7_kyu_Sum_of_two_lowest_positive_integers.py](https://github.com/SibDiP/Codewars_solutions/blob/main/7_kyu_Sum_of_two_lowest_positive_integers.py)       | 7_kyu_Sum_of_two_lowest_positive_integers.py<br>2. smallest & sec_smallest, for, sum(), O(n)                                                                             | 
+| 2023-03-22 | [7_kyu_Sum_of_two_lowest_positive_integers.py](https://github.com/SibDiP/Codewars_solutions/blob/main/7_kyu_Sum_of_two_lowest_positive_integers.py)       | 1. sorted(), sum(), O(n log n)<br>2. smallest & sec_smallest, for, sum(), O(n)                                                                             | 
+| 2023-03-24 | [8_kyu_Rock_Paper_Scissors.py](https://github.com/SibDiP/Codewars_solutions/blob/main/8_kyu_Rock_Paper_Scissors.py)       | 1. if-elif-else construction, easy to read                                                                             | 
 
 
 LeetCode
