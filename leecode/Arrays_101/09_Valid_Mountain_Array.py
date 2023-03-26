@@ -43,19 +43,31 @@ with a straightforward solution."""
 # 1. while loop, walk up - walk down
 class Solution:
     def validMountainArray(self, arr: List[int]) -> bool:
+        pointer = 0
         arr_len = len(arr)
-        i = 0
 
-        # walk up
-        while i + 1 < arr_len and arr[i] < arr[i + 1]:
-            i += 1
-
-        # peak can't be first or last
-        if i == 0 or i == arr_len - 1:
+        if arr_len < 3:
             return False
+        # walk up
+        while pointer < arr_len - 1:
+            if arr[pointer] < arr[pointer + 1]:
+                pointer += 1
+            else:
+                break
 
+        if pointer == 0 or pointer == arr_len - 1:
+            return False
         # walk down
-        while i + 1 < arr_len and arr[i] > arr[i + 1]:
-            i += 1
+        while pointer < arr_len - 1:
+            if arr[pointer] > arr[pointer + 1]:
+                pointer += 1
+            else:
+                return False
 
-        return i == arr_len - 1
+        return True
+
+
+
+
+
+
