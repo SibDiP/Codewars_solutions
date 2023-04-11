@@ -35,6 +35,7 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 2023-03-22 | [7_kyu_Sum_of_two_lowest_positive_integers.py](https://github.com/SibDiP/Codewars_solutions/blob/main/7_kyu_Sum_of_two_lowest_positive_integers.py)       | 1. sorted(), sum(), O(n log n)<br>2. smallest & sec_smallest, for, sum(), O(n)                                                    | 
 | 2023-03-24 | [8_kyu_Rock_Paper_Scissors.py](https://github.com/SibDiP/Codewars_solutions/blob/main/8_kyu_Rock_Paper_Scissors.py)       | 1. if-elif-else construction, easy to read                                                                                        | 
 | 2023-03-30 | [7_kyu_Get_the_Middle_Character.py](https://github.com/SibDiP/Codewars_solutions/blob/main/7_kyu_Get_the_Middle_Character.py)       | 1. if-elif-else, slice<br>2. (FC) divmod(), if-else oneliner, slice (much better than 1)                                          | 
+| 2023-04-11 | [6_kyu_Find_the_odd_int.py](https://github.com/SibDiP/Codewars_solutions/blob/main/6_kyu_Find_the_odd_int.py)       | 1. collections - Counter, for k,v                                         | 
 
 
 LeetCode
