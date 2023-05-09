@@ -38,7 +38,9 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 2023-04-11 | [6_kyu_Find_the_odd_int.py](https://github.com/SibDiP/Codewars_solutions/blob/main/6_kyu_Find_the_odd_int.py)       | 1. collections - Counter, for k,v                                                                                                 | 
 | 2023-04-26 | [7_kyu_Vowel_Count.py](https://github.com/SibDiP/Codewars_solutions/blob/main/7_kyu_Vowel_Count.py)       | 1. collections.Counter, for loop<br>2. (FC) sum(), in-for-in oneliner                                                             | 
 | 2023-05-08 | [8_kyu_Reversed_Strings.py](https://github.com/SibDiP/Codewars_solutions/blob/main/8_kyu_Reversed_Strings.py)       | 1. slice [::-1]                                                                                                                   | 
-| 2023-05-08 | [8_kyu_Grasshopper_-_Check_for_factor.py](https://github.com/SibDiP/Codewars_solutions/blob/main/8_kyu_Grasshopper_-_Check_for_factor.py)       | 1. statement %<br> 2. return if else (no need for that. 1 variant did the same thing)                                                                                                            | 
+| 2023-05-08 | [8_kyu_Grasshopper_-_Check_for_factor.py](https://github.com/SibDiP/Codewars_solutions/blob/main/8_kyu_Grasshopper_-_Check_for_factor.py)       | 1. statement %<br> 2. return if else (no need for that. 1 variant did the same thing)                                             | 
+| 2023-05-09 | [8_kyu_Remove_exclamation_marks.py](https://github.com/SibDiP/Codewars_solutions/blob/main/8_kyu_Remove_exclamation_marks.py)       | 1. .replace()                                                                                                                     | 
+| 2023-05-09 | [8_kyu_Cat_years,_Dog_years.py](https://github.com/SibDiP/Codewars_solutions/blob/main/8_kyu_Cat_years,_Dog_years.py)       | 1. if * 3<br>2.                                                                                                                   | 
 
 
 LeetCode
