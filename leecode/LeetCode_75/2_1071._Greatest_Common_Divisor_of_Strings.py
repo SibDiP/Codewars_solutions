@@ -32,6 +32,7 @@ Constraints:
 
 """
 
+# 1. (My, did't work) max(), min(), for-loop, count()
 class Solution:
     def gcdOfStrings(self, str1: str, str2: str) -> str:
         current_gcd_times = 0
@@ -49,5 +50,20 @@ class Solution:
         return gcd
 
 
-a = Solution()
-print(a.gcdOfStrings("TAUXXTAUXXTAUXXTAUXXTAUXX", "TAUXXTAUXXTAUXXTAUXXTAUXXTAUXXTAUXXTAUXXTAUXX"))
+# 2. (Editoiral) / Brute Force | prefix check, end-to-start, min(), len()
+
+class Solution:
+    def gcdOfStrings(self, str1: str, str2: str) -> str:
+        len1, len2 = len(str1), len(str2)
+
+        def valid(k):
+            if len1 % k or len2 % K:
+                return False
+            n1,n2 = len1 // k, len2 // k
+            base = str1[:k]
+            return str1 == n1 * base and str2 == n2 * base
+
+        for i in range(min(len1, len2), 0, -1):
+            if valid(i):
+                return str1[:i]
+        return ""
