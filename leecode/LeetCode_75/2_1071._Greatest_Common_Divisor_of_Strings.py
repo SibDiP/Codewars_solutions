@@ -57,7 +57,7 @@ class Solution:
         len1, len2 = len(str1), len(str2)
 
         def valid(k):
-            if len1 % k or len2 % K:
+            if len1 % k or len2 % k:
                 return False
             n1,n2 = len1 // k, len2 // k
             base = str1[:k]
