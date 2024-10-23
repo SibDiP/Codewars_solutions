@@ -42,6 +42,7 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 2023-05-09 | [8_kyu_Remove_exclamation_marks.py](https://github.com/SibDiP/Codewars_solutions/blob/main/8_kyu_Remove_exclamation_marks.py)       | 1. .replace()                                                                                                                     | 
 | 2023-05-09 | [8_kyu_Cat_years,_Dog_years.py](https://github.com/SibDiP/Codewars_solutions/blob/main/8_kyu_Cat_years,_Dog_years.py)       | 1. if * 3<br>2.                                                                                                                   | 
 | 2024-08-14 | [6_kyu_Sort_the_odd.py](https://github.com/SibDiP/Codewars_solutions/blob/main/6_kyu_Sort_the_odd.py)       | 1. list, append(), sort()                                                                                                                   | 
+| 2024-10-23 | [8_kyu_Sentence_Smash.py](https://github.com/SibDiP/Codewars_solutions/blob/main/8_kyu_Sentence_Smash.py)       | 1. join(), strip()()                                                                                                                   | 
 
 
 
