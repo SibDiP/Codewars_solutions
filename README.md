@@ -47,8 +47,10 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 2024-09-12 | [6_kyu_Count_characters_in_your_string.py](https://github.com/SibDiP/Codewars_solutions/blob/main/6_kyu_Count_characters_in_your_string.py)       | 1. for-loop, if-else<br>2. (FC) for-loop, dict.get(value, default)
 | 2024-10-12 | [7_kyu_Disemvowel_Trolls.py](https://github.com/SibDiP/Codewars_solutions/blob/main/7_kyu_Disemvowel_Trolls.py)       | 1. (FC) | ''.join(), list comprehansion<br>2. (FC) | re, re.sub()
 | 2025-07-08 | [8_kyu_Super_Duper_Easy.py](https://github.com/SibDiP/Codewars_solutions/blob/main/8_kyu_Super_Duper_Easy.py)       | 1. try/except
+| 2025-07-10 | [6_kyu_Simple_Encryption_#1_-_Alternating_Split.py](https://github.com/SibDiP/Codewars_solutions/blob/main/6_kyu_Simple_Encryption_#1_-_Alternating_Split.py)       | 1. # slice [:], for-loop, % 2. OK, but can be better<br>2. (FC) Advanced slicing and multiple assigment
 
 
+6_kyu_Simple_Encryption_#1_-_Alternating_Split
 LeetCode
 ---  
 | Date       | File                                                                                                                                                                                    | Theme                                                                                                                                                                                                                      | 
