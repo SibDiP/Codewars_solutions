@@ -1,4 +1,5 @@
-"""Sum of two lowest positive integers
+"""
+Sum of two lowest positive integers
 https://www.codewars.com/kata/558fc85d8fd1938afb000014/train/python
 
 Create a function that returns the sum of the two lowest positive numbers given an array of minimum 4 positive

@@ -48,6 +48,16 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 2024-10-12 | [7_kyu_Disemvowel_Trolls.py](https://github.com/SibDiP/Codewars_solutions/blob/main/7_kyu_Disemvowel_Trolls.py)       | 1. (FC) | ''.join(), list comprehansion<br>2. (FC) | re, re.sub()
 | 2025-07-08 | [8_kyu_Super_Duper_Easy.py](https://github.com/SibDiP/Codewars_solutions/blob/main/8_kyu_Super_Duper_Easy.py)       | 1. try/except
 | 2025-07-10 | [6_kyu_Simple_Encryption_#1_-_Alternating_Split.py](https://github.com/SibDiP/Codewars_solutions/blob/main/6_kyu_Simple_Encryption_#1_-_Alternating_Split.py)       | 1. # slice [:], for-loop, % 2. OK, but can be better<br>2. (FC) Advanced slicing and multiple assigment
+| 2025-07-15 | [6_kyu_Who_likes_it.py](https://github.com/SibDiP/Codewars_solutions/blob/main/6_kyu_Who_likes_it.py)       | 1. if-elif, .join()<br> 2. (FC) dict, .format(), [:] | better looking, but worse efficiency
+| 2025-07-17 | [8_kyu_Reverse_List_Order.py](https://github.com/SibDiP/Codewars_solutions/blob/main/8_kyu_Reverse_List_Order.py)       | 1. [::-1]
+| 2025-07-17 | [8_kyu_Convert_a_String_to_a_Number.py](https://github.com/SibDiP/Codewars_solutions/blob/main/8_kyu_Convert_a_String_to_a_Number.py)       | 1. int()
+| 2025-07-22 | [7_kyu_Remove_anchor_from_URL.py](https://github.com/SibDiP/Codewars_solutions/blob/main/7_kyu_Remove_anchor_from_URL.py)       | 1. .split()[]
+| 2025-07-24 | [8_kyu_Transportation_on_vacation.py](https://github.com/SibDiP/Codewars_solutions/blob/main/8_kyu_Transportation_on_vacation.py)       | 1. CONST, dict | very readable
+| 2025-07-24 | [8_kyu_You_only_need_one_-_Beginner.py](https://github.com/SibDiP/Codewars_solutions/blob/main/8_kyu_You_only_need_one_-_Beginner.py)       | 1. elem in seq
+
+
+
+
 
 
 6_kyu_Simple_Encryption_#1_-_Alternating_Split
