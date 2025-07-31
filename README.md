@@ -56,6 +56,7 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 2025-07-24 | [8_kyu_You_only_need_one_-_Beginner.py](https://github.com/SibDiP/Codewars_solutions/blob/main/8_kyu_You_only_need_one_-_Beginner.py)       | 1. elem in seq
 | 2025-07-28 | [8_kyu_Beginner_-_Lost_Without_a_Map.py](https://github.com/SibDiP/Codewars_solutions/blob/main/8_kyu_Beginner_-_Lost_Without_a_Map.py)       | 1. list comprehansion
 | 2025-07-28 | [8_kyu_Total_amount_of_points.py](https://github.com/SibDiP/Codewars_solutions/blob/main/8_kyu_Total_amount_of_points.py)       | 1. list comprehansion
+| 2025-07-31 | [7_kyu_Sum_of_odd_numbers.py](https://github.com/SibDiP/Codewars_solutions/blob/main/7_kyu_Sum_of_odd_numbers.py)       | 1. for-loops, list, .apend()<br>2. (FC) n ** 3... yes.
 
 
 
