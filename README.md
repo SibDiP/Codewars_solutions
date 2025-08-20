@@ -3,6 +3,7 @@ My codewars solutions written on #python.
 
 Main purpose: tracking progress and easy navigation through solved task examples   
 
+## Codewars
 ---  
 | Date       | Kata                                                                                                                                  | Theme                                                                                                                             |  
 |------------|---------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|  
@@ -58,15 +59,14 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 2025-07-28 | [8_kyu_Total_amount_of_points.py](https://github.com/SibDiP/Codewars_solutions/blob/main/8_kyu_Total_amount_of_points.py)       | 1. list comprehansion
 | 2025-07-31 | [7_kyu_Sum_of_odd_numbers.py](https://github.com/SibDiP/Codewars_solutions/blob/main/7_kyu_Sum_of_odd_numbers.py)       | 1. for-loops, list, .apend()<br>2. (FC) n ** 3... yes.
 | 2025-08-04 | [7_kyu_Find_the_capitals.py](https://github.com/SibDiP/Codewars_solutions/blob/main/7_kyu_Find_the_capitals.py)       | 1. list comprehansion, range(len()), str.isupper()<br>2. (FC) better | list comprehansion, enumerate(), str.isupper()
+|2025-08-20|[6_kyu_Your_order,_please.py](codewars/6_kyu_Your_order,_please.py)|split(), list comprehansion, for-loops, if, key-value in dict.items(), join()|
+|2025-08-20|[8_kyu_get_character_from_ASCII_Value.py](codewars/8_kyu_get_character_from_ASCII_Value.py)|1. chr()|
+|2025-08-20|[7_kyu_Testing_1-2-3.py](codewars/7_kyu_Testing_1-2-3.py)|list comprehansion, enumerate() with start parameter|
+|2025-08-20|6_kyu_Consecutive_strings.py|1. generator + max(key=len), ''.join 2. nested loops + max(key=len)|
 
 
 
-
-
-
-
-6_kyu_Simple_Encryption_#1_-_Alternating_Split
-LeetCode
+## LeetCode
 ---  
 | Date       | File                                                                                                                                                                                    | Theme                                                                                                                                                                                                                      | 
 |------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
