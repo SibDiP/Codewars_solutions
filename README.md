@@ -64,7 +64,7 @@ Main purpose: tracking progress and easy navigation through solved task examples
 |2025-08-20|[7_kyu_Testing_1-2-3.py](codewars/7_kyu_Testing_1-2-3.py)|list comprehansion, enumerate() with start parameter|
 |2025-08-20|[6_kyu_Consecutive_strings.py](codewars/6_kyu_Consecutive_strings.py)|1. generator + max(key=len), ''.join<br>2. nested loops + max(key=len)|
 |2025-08-21|[6_kyu_Give_me_a_Diamond.py](codewars/6_kyu_Give_me_a_Diamond.py)|1. for-loop, abs distance to diamond mid abs(mid - i), stars and spaces counting, .append(), join()<br>2. (FC) nice&easy. Make mid and add similar lines from both sides|
-
+|2025-08-22|[6_kyu_Tribonacci.py](codewars/6_kyu_Tribonacci.py)|1. for-loop, condition checks for n, sum() slice <br>2. (FC) short loop with res[-3:]|
 
 
 ## LeetCode
