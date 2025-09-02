@@ -65,6 +65,12 @@ Main purpose: tracking progress and easy navigation through solved task examples
 |2025-08-20|[6_kyu_Consecutive_strings.py](codewars/6_kyu_Consecutive_strings.py)|1. generator + max(key=len), ''.join<br>2. nested loops + max(key=len)|
 |2025-08-21|[6_kyu_Give_me_a_Diamond.py](codewars/6_kyu_Give_me_a_Diamond.py)|1. for-loop, abs distance to diamond mid abs(mid - i), stars and spaces counting, .append(), join()<br>2. (FC) nice&easy. Make mid and add similar lines from both sides|
 |2025-08-22|[6_kyu_Tribonacci.py](codewars/6_kyu_Tribonacci.py)|1. for-loop, condition checks for n, sum() slice <br>2. (FC) short loop with res[-3:]|
+|2025-09-02|[8_kyu_Parse_nice_int_from_char_problem.py](codewars/8_kyu_Parse_nice_int_from_char_problem.py)|int(), string indexing [0]|
+|2025-09-02|[8_kyu_Find_Maximum_and_Minimum_Values_of_a_List.py](codewars/8_kyu_Find_Maximum_and_Minimum_Values_of_a_List.py)|min(), max() built-in functions|
+|2025-09-02|[8_kyu_Keep_up_the_hoop.py](codewars/8_kyu_Keep_up_the_hoop.py)|1. tuple indexing with boolean 2. ternary operator 3. if-else statement|
+|2025-09-02|[7_kyu_Sum_of_the_first_nth_term_of_Series.py](codewars/7_kyu_Sum_of_the_first_nth_term_of_Series.py)|list comprehension, sum(), f-string formatting :.2f|
+|2025-09-02|[8_kyu_Return_Negative.py](codewars/8_kyu_Return_Negative.py)|abs(), unary minus operator|
+
 
 
 ## LeetCode
