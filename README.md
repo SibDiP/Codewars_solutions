@@ -70,6 +70,9 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 61 | 2025-09-28 | [8_kyu_Keep_up_the_hoop.py](codewars/8_kyu_Keep_up_the_hoop.py) | 1. tuple indexing with boolean 2. ternary operator 3. if-else statement |
 | 62 | 2025-09-02 | [7_kyu_Sum_of_the_first_nth_term_of_Series.py](codewars/7_kyu_Sum_of_the_first_nth_term_of_Series.py) | list comprehension, sum(), f-string formatting :.2f |
 | 63 | 2025-09-02 | [8_kyu_Return_Negative.py](codewars/8_kyu_Return_Negative.py) | abs(), unary minus operator |
+| 64 | 2025-09-04 |[8_kyu_altERnaTIng_cAsE_ALTerNAtiNG_CaSe.py](codewars/8_kyu_altERnaTIng_cAsE_ALTerNAtiNG_CaSe.py)|1. generator expression, casefold(), isupper(), upper() 2. (FC) string.swapcase() - built-in method|
+| 65 | 2025-09-05 |[8_kyu_Powers_of_2.py](codewars/8_kyu_Powers_of_2.py)|list comprehension, range(), power operator **|
+
 
 ## LeetCode
 ---
