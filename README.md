@@ -72,6 +72,8 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 63 | 2025-09-02 | [8_kyu_Return_Negative.py](codewars/8_kyu_Return_Negative.py) | abs(), unary minus operator |
 | 64 | 2025-09-04 |[8_kyu_altERnaTIng_cAsE_ALTerNAtiNG_CaSe.py](codewars/8_kyu_altERnaTIng_cAsE_ALTerNAtiNG_CaSe.py)|1. generator expression, casefold(), isupper(), upper() 2. (FC) string.swapcase() - built-in method|
 | 65 | 2025-09-05 |[8_kyu_Powers_of_2.py](codewars/8_kyu_Powers_of_2.py)|list comprehension, range(), power operator **|
+| 66 |2025-09-08|[8_kyu_Convert_number_to_reversed_array_of_digits.py](codewars/8_kyu_Convert_number_to_reversed_array_of_digits.py)|1. list comprehension, str(), int(), slice reversal [::-1]<br>2. (FC) while, .append(), n // 10|
+
 
 
 ## LeetCode
