@@ -75,6 +75,7 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 66 | 2025-09-08 | [8_kyu_Convert_number_to_reversed_array_of_digits.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Convert_number_to_reversed_array_of_digits.py) | list comprehension, str(), int(), slice reversal [::-1] |
 | 67 | 2025-09-09 | [5_kyu_Directions_Reduction.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/5_kyu_Directions_Reduction.py) | stack data structure, dictionary, list.pop(), list.append(), type hints |
 | 68 | 2025-09-10 | [8_kyu_Finish_Guess_the_Number_Game.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Finish_Guess_the_Number_Game.py) | class, __init__, instance variables, method, type hints, exception handling |
+| 69 | 2025-09-24 | [7_kyu_Refactored_Greeting.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Refactored_Greeting.py) | class, __init__, instance method, f-string, type hints, OOP |
 
 
 ## LeetCode
