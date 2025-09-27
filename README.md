@@ -76,6 +76,7 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 67 | 2025-09-09 | [5_kyu_Directions_Reduction.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/5_kyu_Directions_Reduction.py) | stack data structure, dictionary, list.pop(), list.append(), type hints |
 | 68 | 2025-09-10 | [8_kyu_Finish_Guess_the_Number_Game.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Finish_Guess_the_Number_Game.py) | class, __init__, instance variables, method, type hints, exception handling |
 | 69 | 2025-09-24 | [7_kyu_Refactored_Greeting.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Refactored_Greeting.py) | class, __init__, instance method, f-string, type hints, OOP |
+| 70 | 2025-09-27 | [8_kyu_Get_Planet_Name_By_ID.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Get_Planet_Name_By_ID.py) | 1. dictionary mapping, dict.get() |
 
 
 ## LeetCode
