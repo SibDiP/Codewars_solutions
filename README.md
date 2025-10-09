@@ -81,6 +81,7 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 72 | 2025-10-02 | [7_kyu_Descending_Order.py](https://github.com/SibDiP/Codewars_solutions/main/codewars/7_kyu_Descending_Order.py) |sorted(), str(), int(), ''.join() |
 | 73 | 2025-10-03 | [8_kyu_Name_Your_Python.py](https://github.com/SibDiP/Codewars_solutions/main/codewars/8_kyu_Name_Your_Python.py) | class, __init__, instance variable |
 | 74 | 2025-10-06 | [8_kyu_Regular_Ball_Super_Ball.py](https://github.com/SibDiP/Codewars_solutions/main/codewars/8_kyu_Regular_Ball.py) | class, __init__, default parameter, instance variable |
+| 75 | 2025-10-09 | [6_kyu_Sum_of_Digits_Digital_Root.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/6_kyu_Sum_of_Digits_Digital_Root.py) | 1. mathematical modulo 9 approach<br>2. (FC) clever one-liner with boolean operators `or` `and` |
 
 ## LeetCode
 ---
