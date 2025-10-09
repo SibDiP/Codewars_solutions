@@ -77,10 +77,10 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 68 | 2025-09-10 | [8_kyu_Finish_Guess_the_Number_Game.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Finish_Guess_the_Number_Game.py) | class, __init__, instance variables, method, type hints, exception handling |
 | 69 | 2025-09-24 | [7_kyu_Refactored_Greeting.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Refactored_Greeting.py) | class, __init__, instance method, f-string, type hints, OOP |
 | 70 | 2025-09-27 | [8_kyu_Get_Planet_Name_By_ID.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Get_Planet_Name_By_ID.py) | 1. dictionary mapping, dict.get() |
-| 71 | 2025-10-01 | [6_kyu_Stop_gninnipS_My_sdroW.py](https://github.com/SibDiP/Codewars_solutions/main/codewars/6_kyu_Stop_gninnipS_My_sdroW.py) |1. generator, [::-1], len(), .split()<br>2. for loop<br>3. (AI): map(), lambda, .split() |
-| 72 | 2025-10-02 | [7_kyu_Descending_Order.py](https://github.com/SibDiP/Codewars_solutions/main/codewars/7_kyu_Descending_Order.py) |sorted(), str(), int(), ''.join() |
-| 73 | 2025-10-03 | [8_kyu_Name_Your_Python.py](https://github.com/SibDiP/Codewars_solutions/main/codewars/8_kyu_Name_Your_Python.py) | class, __init__, instance variable |
-| 74 | 2025-10-06 | [8_kyu_Regular_Ball_Super_Ball.py](https://github.com/SibDiP/Codewars_solutions/main/codewars/8_kyu_Regular_Ball.py) | class, __init__, default parameter, instance variable |
+| 71 | 2025-10-01 | [6_kyu_Stop_gninnipS_My_sdroW.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/6_kyu_Stop_Spinning_Words.py) |1. generator, [::-1], len(), .split()<br>2. for loop<br>3. (AI): map(), lambda, .split() |
+| 72 | 2025-10-02 | [7_kyu_Descending_Order.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Descending_Order.py) |sorted(), str(), int(), ''.join() |
+| 73 | 2025-10-03 | [8_kyu_Name_Your_Python.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Name_Your_Python.py) | class, __init__, instance variable |
+| 74 | 2025-10-06 | [8_kyu_Regular_Ball_Super_Ball.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Regular_Ball.py) | class, __init__, default parameter, instance variable |
 | 75 | 2025-10-09 | [6_kyu_Sum_of_Digits_Digital_Root.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/6_kyu_Sum_of_Digits_Digital_Root.py) | 1. mathematical modulo 9 approach<br>2. (FC) clever one-liner with boolean operators `or` `and` |
 
 ## LeetCode
