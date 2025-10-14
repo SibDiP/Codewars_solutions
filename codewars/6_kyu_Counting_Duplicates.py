@@ -31,3 +31,24 @@ def duplicate_count(text):
             dupes.add(char)
         seen.add(char)
     return len(dupes)
+
+# 4. (My) for, .lower, set(), counter var
+def duplicate_count(text:str) -> int:
+    low_text = text.lower()
+    unic_set = set(low_text)
+    duplicate_counter = 0
+
+    for i in unic_set:
+        if low_text.count(i) > 1:
+            duplicate_counter += 1
+
+    return duplicate_counter
+
+# 5. (My) Counter from collections, sum(), generator
+from collections import Counter
+
+def duplicate_count(text: str) -> int:
+    counts = Counter(text.lower())
+    return sum(1 for amoount_of_duplicates in counts.values() if amoount_of_duplicates > 1)
+
+
