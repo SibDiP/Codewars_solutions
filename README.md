@@ -83,6 +83,7 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 74 | 2025-10-06 | [8_kyu_Regular_Ball_Super_Ball.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Regular_Ball.py) | class, __init__, default parameter, instance variable |
 | 75 | 2025-10-09 | [6_kyu_Sum_of_Digits_Digital_Root.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/6_kyu_Sum_of_Digits_Digital_Root.py) | 1. mathematical modulo 9 approach<br>2. (FC) clever one-liner with boolean operators `or` `and` |
 | 76 | 2025-10-13 | [7_kyu_Basic_Sequence_Practice.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Basic_Sequence_Practice.py) | 1. iterative cumulative sum, edge case handling<br> 2.(AI) mathematical triangular numbers |
+| 76 | 2026-01-18 | [8_kyu_OOP_Object_Oriented_Piracy.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_OOP_Object_Oriented_Piracy.py) | boolean expression |
 
 ## LeetCode
 ---
