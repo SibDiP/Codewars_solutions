@@ -103,7 +103,7 @@ class Solution_SetComparison:
     Cons: Creates full set even if duplicate found early
     """
     
-    def containsDuplicate(self, nums: List[int]) -> bool:
+    def containsDuplicate(self, nums: list[int]) -> bool:
         set_nums = set(nums)  # O(n) operation
         return len(set_nums) < len(nums)  # O(1) comparison
 
@@ -140,7 +140,7 @@ class Solution_SetWithLoop:
         - Optimal: single loop with O(1) lookups → O(n)
     """
     
-    def containsDuplicate(self, nums: List[int]) -> bool:
+    def containsDuplicate(self, nums: list[int]) -> bool:
         seen = set()
         
         for num in nums:  # n iterations
