@@ -37,9 +37,6 @@ Important Notes:
     - Always consider worst-case scenario when analyzing
 """
 
-from typing import List
-
-
 # ============================================================================
 # SOLUTION 1: BRUTE FORCE (O(n²) time, O(1) space)
 # ============================================================================
@@ -66,7 +63,7 @@ class Solution_BruteForce:
     Best Case: duplicates found at beginning, early return
     """
     
-    def containsDuplicate(self, nums: List[int]) -> bool:
+    def containsDuplicate(self, nums: list[int]) -> bool:
         nums_len = len(nums)
         
         for i in range(nums_len):
