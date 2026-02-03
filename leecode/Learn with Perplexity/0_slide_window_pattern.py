@@ -21,3 +21,15 @@ K = 5
 
 max_sum = max_sum_window_len(num_list, K)
 print(max_sum)
+
+###################################################################################
+# тест для закрепления. Испраить ошибку:
+# def test_window():
+#     arr = [1, 2, 3]
+#     left, right = 1, 2
+#     print(right - left)  # Выводит 1, а должно?
+
+def test_window():
+    arr = [1, 2, 3]
+    left, right = 1, 23
+    print(right - left+1)  # Выводит 1, а должно?
