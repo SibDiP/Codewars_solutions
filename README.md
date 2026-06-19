@@ -59,7 +59,7 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 50 | 2025-07-28 | [8_kyu_Total_amount_of_points.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Total_amount_of_points.py)       | 1. list comprehansion |
 | 51 | 2025-07-31 | [7_kyu_Sum_of_odd_numbers.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Sum_of_odd_numbers.py)       | 1. for-loops, list, .apend()<br>2. (FC) n ** 3... yes. |
 | 52 | 2025-08-04 | [7_kyu_Find_the_capitals.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Find_the_capitals.py)       | 1. list comprehansion, range(len()), str.isupper()<br>2. (FC) better list comprehansion, enumerate(), str.isupper() |
-| 53 | 2025-08-20 | [6_kyu_Your_order,_please.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/6_kyu_Your_order,_please.py) | split(), list comprehansion, for-loops, if, key-value in dict.items(), join() |
+| 53 | 2025-08-20<br>2026-06-19 | [6_kyu_Your_order,_please.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/6_kyu_Your_order,_please.py) | 1. split(), list comprehansion, for-loops, if, dict.items(), join()<br>2. (my) поиск цифры в слове, заполнение списка по индексу<br>3. (FC) sorted(..., key=min) |
 | 54 | 2025-08-20 | [8_kyu_get_character_from_ASCII_Value.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_get_character_from_ASCII_Value.py) | 1. chr() |
 | 55 | 2025-08-20 | [7_kyu_Testing_1-2-3.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Testing_1-2-3.py) | list comprehansion, enumerate() with start parameter |
 | 56 | 2025-08-20 | [6_kyu_Consecutive_strings.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/6_kyu_Consecutive_strings.py) | 1. generator + max(key=len), ''.join<br>2. nested loops + max(key=len) |
@@ -84,6 +84,12 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 75 | 2025-10-09 | [6_kyu_Sum_of_Digits_Digital_Root.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/6_kyu_Sum_of_Digits_Digital_Root.py) | 1. mathematical modulo 9 approach<br>2. (FC) clever one-liner with boolean operators `or` `and` |
 | 76 | 2025-10-13 | [7_kyu_Basic_Sequence_Practice.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Basic_Sequence_Practice.py) | 1. iterative cumulative sum, edge case handling<br> 2.(AI) mathematical triangular numbers |
 | 76 | 2026-01-18 | [8_kyu_OOP_Object_Oriented_Piracy.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_OOP_Object_Oriented_Piracy.py) | boolean expression |
+| 77 | 2026-06-08 | [8_kyu_Classy_Extensions.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Classy_Extensions.py) | Наследование, переопределение метода, f-строка |
+| 78 | 2026-06-08 | [8_kyu_Classy_Classes.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Classy_Classes.py) | ООП, конструктор, свойство `@property`, f-строка |
+| 79 | 2026-06-08 | [7_kyu_makeBackronym.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_makeBackronym.py) | Генераторное выражение, словарь, `str.upper()` |
+| 80 | 2026-06-09 | [7_kyu_Friend_or_Foe.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Friend_or_Foe.py) | List comprehension, фильтрация по длине строки |
+| 81 | 2026-06-17 | [6_kyu_Persistent_Bugger.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/6_kyu_Persistent_Bugger.py) | Цикл `while`, преобразование числа в цифры, произведение цифр |
+| 82 | 2026-06-18 | [8_kyu_Playing_with_cubes_II.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Playing_with_cubes_II.py) | ООП, конструктор, геттер/сеттер, `__side`, `abs()` |
 
 ## LeetCode
 ---

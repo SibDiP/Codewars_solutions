@@ -39,7 +39,21 @@ def order(sentence):
     # return
     return " ".join(result_list)
 
-# Test cases
-print(order("is2 Thi1s T4est 3a"))  # "Thi1s is2 3a T4est"
-print(order("4of Fo1r pe6ople g3ood th5e the2"))  # "Fo1r the2 g3ood 4of th5e pe6ople"
-print(order(""))  # ""
+
+# Вариант 2 (моё сегодняшнее решение):
+def order(sentence):
+    words = sentence.split()
+    words_in_order = ["" for _ in range(len(words))]
+    
+    for word in words:
+        for letter in word:
+            if letter.isdigit():
+                words_in_order[int(letter) - 1] = word
+                break
+    
+    return " ".join(words_in_order)
+
+# Вариант 3 (FC) – с использованием sorted и key=min:
+# (min() берёт символ с минимальным кодом Unicode, а у цифр он всегда меньше, чем у букв)
+def order(sentence):
+    return " ".join(sorted(sentence.split(), key=min))
