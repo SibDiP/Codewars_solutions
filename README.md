@@ -90,6 +90,7 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 80 | 2026-06-09 | [7_kyu_Friend_or_Foe.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Friend_or_Foe.py) | List comprehension, фильтрация по длине строки |
 | 81 | 2026-06-17 | [6_kyu_Persistent_Bugger.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/6_kyu_Persistent_Bugger.py) | Цикл `while`, преобразование числа в цифры, произведение цифр |
 | 82 | 2026-06-18 | [8_kyu_Playing_with_cubes_II.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Playing_with_cubes_II.py) | ООП, конструктор, геттер/сеттер, `__side`, `abs()` |
+| 83 | 2026-06-29 | [8_kyu_Grade_book.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Grade_book.py) | 1. (my) словарь, цикл, сравнение среднего<br>2. (FAI) bisect_right, индексация строки |
 
 ## LeetCode
 ---
