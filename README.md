@@ -84,13 +84,14 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 75 | 2025-10-09 | [6_kyu_Sum_of_Digits_Digital_Root.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/6_kyu_Sum_of_Digits_Digital_Root.py) | 1. mathematical modulo 9 approach<br>2. (FC) clever one-liner with boolean operators `or` `and` |
 | 76 | 2025-10-13 | [7_kyu_Basic_Sequence_Practice.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Basic_Sequence_Practice.py) | 1. iterative cumulative sum, edge case handling<br> 2.(AI) mathematical triangular numbers |
 | 76 | 2026-01-18 | [8_kyu_OOP_Object_Oriented_Piracy.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_OOP_Object_Oriented_Piracy.py) | boolean expression |
-| 77 | 2026-06-08 | [8_kyu_Classy_Extensions.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Classy_Extensions.py) | Наследование, переопределение метода, f-строка |
-| 78 | 2026-06-08 | [8_kyu_Classy_Classes.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Classy_Classes.py) | ООП, конструктор, свойство `@property`, f-строка |
-| 79 | 2026-06-08 | [7_kyu_makeBackronym.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_makeBackronym.py) | Генераторное выражение, словарь, `str.upper()` |
-| 80 | 2026-06-09 | [7_kyu_Friend_or_Foe.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Friend_or_Foe.py) | List comprehension, фильтрация по длине строки |
-| 81 | 2026-06-17 | [6_kyu_Persistent_Bugger.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/6_kyu_Persistent_Bugger.py) | Цикл `while`, преобразование числа в цифры, произведение цифр |
-| 82 | 2026-06-18 | [8_kyu_Playing_with_cubes_II.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Playing_with_cubes_II.py) | ООП, конструктор, геттер/сеттер, `__side`, `abs()` |
-| 83 | 2026-06-29 | [8_kyu_Grade_book.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Grade_book.py) | 1. (my) словарь, цикл, сравнение среднего<br>2. (FAI) bisect_right, индексация строки |
+| 77 | 2026-06-08 | [8_kyu_Classy_Extensions.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Classy_Extensions.py) | Inheritance, method overriding, f-string |
+| 78 | 2026-06-08 | [8_kyu_Classy_Classes.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Classy_Classes.py) | OOP, constructor, `@property` property, f-string |
+| 79 | 2026-06-08 | [7_kyu_makeBackronym.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_makeBackronym.py) | Generator expression, dictionary, `str.upper()` |
+| 80 | 2026-06-09 | [7_kyu_Friend_or_Foe.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Friend_or_Foe.py) | List comprehension, filtering by string length |
+| 81 | 2026-06-17 | [6_kyu_Persistent_Bugger.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/6_kyu_Persistent_Bugger.py) | `while` loop, converting number to digits, product of digits |
+| 82 | 2026-06-18 | [8_kyu_Playing_with_cubes_II.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Playing_with_cubes_II.py) | OOP, constructor, getter/setter, `__side`, `abs()` |
+| 83 | 2026-06-29 | [8_kyu_Grade_book.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Grade_book.py) | 1. (my) dictionary, loop, average comparison<br>2. (FAI) bisect_right, string indexing |
+| 84 | 2026-06-30 | [8_kyu_Grasshopper_Summation.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Grasshopper_Summation.py) | 1. sum(range())<br>2. Gauss formula (O(1), integer division) |
 
 ## LeetCode
 ---
