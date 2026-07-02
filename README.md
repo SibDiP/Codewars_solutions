@@ -93,6 +93,7 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 83 | 2026-06-29 | [8_kyu_Grade_book.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Grade_book.py) | 1. (my) dictionary, loop, average comparison<br>2. (FAI) bisect_right, string indexing |
 | 84 | 2026-06-30 | [8_kyu_Grasshopper_Summation.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Grasshopper_Summation.py) | 1. sum(range())<br>2. Gauss formula (O(1), integer division) |
 | 85 | 2026-07-01 | [8_kyu_Grasshopper_Terminal_Game_1.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Grasshopper_Terminal_Game_1.py) | OOP, `@dataclass`, default values, fields |
+| 86 | 2026-07-02 | [8_kyu_Divisible_By.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Divisible_By.py) | list comprehension, filter, lambda (альтернатива менее читаема) |
 
 ## LeetCode
 ---
