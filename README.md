@@ -96,6 +96,7 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 86 | 2026-07-02 | [8_kyu_Divisible_By.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Divisible_By.py) | list comprehension, filter, lambda (альтернатива менее читаема) |
 | 87 | 2026-07-03 | [8_kyu_Grasshopper_Combine_strings.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Grasshopper_Combine_strings.py) | f-string, type hints, concatenation |
 | 88 | 2026-07-03 | [7_kyu_Method_For_Counting_Total_Occurence_Of_Specific_Digits.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Method_For_Counting_Total_Occurence_Of_Specific_Digits.py) | OOP, generator expression, `str.count`, list comprehension, `abs()` |
+| 89 | 2026-07-04 | [7_kyu_Remove_All_The_Marked_Elements_of_a_List.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Remove_All_The_Marked_Elements_of_a_List.py) | set, list comprehension, filter by exclusion |
 
 ## LeetCode
 ---
