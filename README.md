@@ -100,6 +100,7 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 90 | 2026-07-06 | [8_kyu_Formatting_decimal_places_0.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Formatting_decimal_places_0.py) | `round()` (bankers rounding), `Decimal` with `ROUND_HALF_UP` (alternative) |
 | 91 | 2026-07-07 | [7_kyu_Formatting_decimal_places_1.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Formatting_decimal_places_1.py) | `Decimal` with `ROUND_DOWN` (truncate), alternative with `int` truncation |
 | 92 | 2026-07-08 | [7_kyu_Number_of_People_in_the_Bus.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Number_of_People_in_the_Bus.py) | loop, tuple unpacking, generator expression, `sum()` |
+| 93 | 2026-07-09 | [7_kyu_Two_to_One.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Two_to_One.py) | set, sorting, string concatenation, set union `\|` (alternative) |
 
 ## LeetCode
 ---
