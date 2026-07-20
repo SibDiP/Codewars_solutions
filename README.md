@@ -103,6 +103,7 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 93 | 2026-07-09 | [7_kyu_Two_to_One.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Two_to_One.py) | set, sorting, string concatenation, set union `\|` (alternative) |
 | 94 | 2026-07-14 | [8_kyu_Remove_First_and_Last_Character.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Remove_First_and_Last_Character.py) | string slicing `s[1:-1]` |
 | 95 | 2026-07-16 | [7_kyu_Sum_of_numbers_from_0_to_N.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Sum_of_numbers_from_0_to_N.py) | `map(str, range())`, formula for sum, ternary vs if/elif (alternative) |
+| 96 | 2026-07-20 | [8_kyu_No_zeros_for_heroes.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_No_zeros_for_heroes.py) | `str.rstrip()`, `int()` conversion, `while` loop with modulo (alternative) |
 
 ## LeetCode
 ---
