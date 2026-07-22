@@ -105,6 +105,7 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 95 | 2026-07-16 | [7_kyu_Sum_of_numbers_from_0_to_N.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Sum_of_numbers_from_0_to_N.py) | `map(str, range())`, formula for sum, ternary vs if/elif (alternative) |
 | 96 | 2026-07-20 | [8_kyu_No_zeros_for_heroes.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_No_zeros_for_heroes.py) | `str.rstrip()`, `int()` conversion, `while` loop with modulo (alternative) |
 | 97 | 2026-07-21 | [7_kyu_The_Barksdale_Code.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_The_Barksdale_Code.py) | `map` with `lambda`, `str.maketrans`, `str.translate` (alternative) |
+| 98 | 2026-07-22 | [7_kyu_Professor_Oaks_Trouble_New_Pokedex_prototype.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Professor_Oaks_Trouble_New_Pokedex_prototype.py) | `bisect_left`, class attributes, boolean arithmetic (alternative) |
 
 ## LeetCode
 ---
