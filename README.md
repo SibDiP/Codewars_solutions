@@ -106,6 +106,9 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 96 | 2026-07-20 | [8_kyu_No_zeros_for_heroes.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_No_zeros_for_heroes.py) | `str.rstrip()`, `int()` conversion, `while` loop with modulo (alternative) |
 | 97 | 2026-07-21 | [7_kyu_The_Barksdale_Code.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_The_Barksdale_Code.py) | `map` with `lambda`, `str.maketrans`, `str.translate` (alternative) |
 | 98 | 2026-07-22 | [7_kyu_Professor_Oaks_Trouble_New_Pokedex_prototype.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Professor_Oaks_Trouble_New_Pokedex_prototype.py) | `bisect_left`, class attributes, boolean arithmetic (alternative) |
+| 99 | 2026-07-24 | [7_kyu_Two_fighters_one_winner.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Two_fighters_one_winner.py) | tuple swapping, `while` loop, class attributes, cur/opp variables (alternative) |
+| 100 | 2026-07-24 | [8_kyu_Removing_Elements.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_Removing_Elements.py) | list slicing `[::2]`, step parameter |
+
 
 ## LeetCode
 ---
