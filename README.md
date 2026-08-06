@@ -111,6 +111,7 @@ Main purpose: tracking progress and easy navigation through solved task examples
 | 101 | 2026-07-29 | [7_kyu_Shortest_Word.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Shortest_Word.py) | 1. `min()` with `key=len`, one-liner<br>2. manual loop, tracking smallest length |
 | 102 | 2026-07-30 | [7_kyu_Bumps_in_the_Road.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/7_kyu_Bumps_in_the_Road.py) | 1. `str.count()`, ternary conditional, one-liner |
 | 103 | 2026-08-04 | [6_kyu_Cat_and_Mouse_-_Harder_Version.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/6_kyu_Cat_and_Mouse_-_Harder_Version.py) | `str.find()`, `abs()`, `min()`/`max()`, chained comparison |
+| 104 | 2026-08-06 | [8_kyu_simple_calculator.py](https://github.com/SibDiP/Codewars_solutions/blob/main/codewars/8_kyu_simple_calculator.py) | dictionary of lambdas, `isinstance()` type check, `operator` module (alternative), type hints |
 
 
 ## LeetCode
